@@ -1,0 +1,27 @@
+name: carbon-smtp-adapter
+version: 0.1.0
+
+authors:
+  - Yacine Petitprez <anykeyh@gmail.copm>
+
+description: |
+  Wrapper between arcage/crystal-email and luckyframework/carbon which allow the use of SMTP credentials to send emails!
+
+dependencies:
+  carbon:
+    github: luckyframework/carbon
+    version: "~> 0.1.1"
+  email:
+    github: arcage/crystal-email
+    version: "~> 0.4.3"
+
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT
