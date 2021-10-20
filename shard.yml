@@ -3,6 +3,7 @@ version: 0.1.0
 
 authors:
   - Yacine Petitprez <anykeyh@gmail.copm>
+  - Adam Harbinson <harbinsonadam@gmail.com>
 
 description: |
   Wrapper between arcage/crystal-email and luckyframework/carbon which allow the use of SMTP credentials to send emails!
